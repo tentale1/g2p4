@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Programa para hallar impuestos por tipo de carro
  * 
- * @author Carlos Alvarez 
+ * @author Sandra Martin, Israel Severiche, Jose Alvarez
  * @version 20190817
  */
 public class impuestos
